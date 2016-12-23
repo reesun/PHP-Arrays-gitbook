@@ -1,6 +1,4 @@
 # 翻译说明
 
-基于 《PHP Arrays， Single, Multi-dimensional, Associative and Object Arrays in PHP 7》 翻译，原书作者：Steve Prettyman
-
-
+基于 《PHP Arrays: Single, Multi-dimensional, Associative and Object Arrays in PHP 7》 翻译，原书作者：Steve Prettyman
 
