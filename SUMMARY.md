@@ -1,4 +1,5 @@
 # Summary
 
-* [翻译说明](README.md)
+* [说明](README.md)
+* [简介](简介.md)
 
