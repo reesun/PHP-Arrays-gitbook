@@ -1,7 +1,5 @@
 # PHP7基础
 
-Create a simple error-free PHP program Understand the use and value of conditional statements Understand the use and value of for, while, and foreach loops Understand the use and value of functions Understand the use and value of arrays Understand the basic structure of an object-oriented PHP program
-
 本章目标：
 
 * 编写 简单的，无错误的PHP程序
